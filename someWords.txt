@@ -2,3 +2,4 @@ putted some text in before commiting
 added some more text in github after commiting
 some more strings but after installing the git gui
 rmeow
+зачитай нам рэпа, Алексей!
